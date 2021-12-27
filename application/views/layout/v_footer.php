@@ -10,6 +10,7 @@
 
 							<div class="col-lg-3 footer_col">
 					
+							
 								<!-- Footer About -->
 								<div class="footer_section footer_about">
 									<div class="footer_logo_container">

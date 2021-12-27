@@ -12,9 +12,7 @@
 							<nav class="main_nav_contaner ml-auto">
 								<ul class="main_nav">
 									<!--<li class="active"><a href="#">Home</a></li>-->
-									
-								
-									
+																								
 									<li><a href="courses.html">BERITA</a></li>
 									<li><a href="blog.html">PRESTASI</a></li>
                                     <li class="nav-item dropdown">
